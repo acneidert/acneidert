@@ -1,5 +1,11 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008D82&size=30&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+Andr%C3%A9!;Hi+there!+%F0%9F%91%8B+I'm+Andr%C3%A9!)](https://git.io/typing-svg)
+--
+### Main Techs
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **acneidert/acneidert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
